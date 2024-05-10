@@ -2,21 +2,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+# Installation
 
-```bash
-1. --> pnpm i
+# Clone this repository: 
+  git clone https://github.com/MukeshKaswan1/Lens_Corp.git
 
+Navigate to the project directory:
 
+# Install dependencies:
 
-2. --> pnpm dev
+: cd LensCorp-main && npm install
 
-```
+# Run the application:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-## Deployed Link
-
-https://lens-corp.vercel.app/
+client && npm run dev
+Open your browser and access the dashboard at http://localhost:3000.
